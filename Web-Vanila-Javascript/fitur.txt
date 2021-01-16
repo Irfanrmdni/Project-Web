@@ -1,0 +1,15 @@
+
+CSS
+
+1. Favicon
+
+Javascript
+
+1. Timing Event
+2. Parallax Effect
+4. Image Slider
+3. Image Slideshow
+4. Typing text
+5. Hide navbar on scroll
+6. Animate on scroll web page
+7. Dark mode
